@@ -1,2 +1,3 @@
 # use-selectable-list
-Created with CodeSandbox
+
+✅  A hook to make any list selectable.
